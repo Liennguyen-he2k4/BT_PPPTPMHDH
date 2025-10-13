@@ -1,0 +1,12 @@
+D:\BTLT tuan 8\BTLT tuan 8\obj\Debug\BTLT tuan 8.csproj.AssemblyReference.cache
+D:\BTLT tuan 8\BTLT tuan 8\obj\Debug\BTLT_tuan_8.Properties.Resources.resources
+D:\BTLT tuan 8\BTLT tuan 8\obj\Debug\BTLT tuan 8.csproj.GenerateResource.cache
+D:\BTLT tuan 8\BTLT tuan 8\obj\Debug\BTLT tuan 8.csproj.CoreCompileInputs.cache
+D:\BTLT tuan 8\BTLT tuan 8\bin\Debug\DBConnect.mdf
+D:\BTLT tuan 8\BTLT tuan 8\bin\Debug\DBConnect_log.ldf
+D:\BTLT tuan 8\BTLT tuan 8\bin\Debug\BTLT tuan 8.exe.config
+D:\BTLT tuan 8\BTLT tuan 8\bin\Debug\BTLT tuan 8.exe
+D:\BTLT tuan 8\BTLT tuan 8\bin\Debug\BTLT tuan 8.pdb
+D:\BTLT tuan 8\BTLT tuan 8\obj\Debug\BTLT tuan 8.exe
+D:\BTLT tuan 8\BTLT tuan 8\obj\Debug\BTLT tuan 8.pdb
+D:\BTLT tuan 8\BTLT tuan 8\obj\Debug\BTLT_tuan_8.Form1.resources
